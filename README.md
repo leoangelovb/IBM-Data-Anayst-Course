@@ -1,2 +1,2 @@
-# Python Notebooks
-## This will be my python notebook repository
+# IBM Data Analyst Course Outputs
+## This will be my directory for my work from the course
